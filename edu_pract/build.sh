@@ -1,0 +1,1 @@
+g++ -Wall -g -O0 src/randoms.cpp src/aco.cpp src/main.cpp  -o aco
