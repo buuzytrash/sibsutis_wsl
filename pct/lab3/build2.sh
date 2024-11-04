@@ -1,0 +1,1 @@
+gcc -Wall -fopenmp -o task2 ./task2.c -lm

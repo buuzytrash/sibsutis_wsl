@@ -1,0 +1,1 @@
+gcc -g -O2 -fopenmp -o task ./task.c
