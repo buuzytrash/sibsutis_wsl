@@ -1,0 +1,44 @@
+---
+Checks: |
+  clang-diagnostic-*,
+  clang-analyzer-*,
+  *,
+  -fuchsia-*,
+  -llvm-header-guard,
+  -llvmlibc-*,
+  -cppcoreguidelines-owning-memory,
+  -modernize-use-trailing-return-type,
+  -readability-identifier-length,
+  -llvm-namespace-comment,
+  -altera-unroll-loops,
+  -cppcoreguidelines-avoid-magic-numbers,
+  -readability-magic-numbers,
+  -altera-id-dependent-backward-branch,
+  -bugprone-easily-swappable-parameters,
+  -modernize-pass-by-value,
+  -hicpp-use-emplace,
+  -modernize-use-emplace,
+  -misc-const-correctness,
+  -clang-diagnostic-error,
+  -hicpp-move-const-arg,
+  -performance-move-const-arg,
+  -readability-convert-member-functions-to-static,
+  -clang-diagnostic-delete-non-abstract-non-virtual-dtor,
+  -cppcoreguidelines-virtual-class-destructor,
+  -google-explicit-constructor,
+  -hicpp-explicit-conversions,
+  -llvm-include-order,
+  -cppcoreguidelines-special-member-functions,
+  -hicpp-special-member-functions,
+  -modernize-use-nodiscard,
+  -altera-struct-pack-align,
+  -readability-function-cognitive-complexity,
+  -bugprone-suspicious-missing-comma
+
+
+WarningsAsErrors: '*'
+HeaderFilterRegex: '(libmath|libfts|app)/'
+AnalyzeTemporaryDtors: false
+FormatStyle:     file
+CheckOptions:
+...
