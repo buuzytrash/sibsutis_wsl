@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/MathFunctions/MathFunctions.cxx
+MathFunctions.h
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/MathFunctions/MathFunctions.h
+mysqrt.h
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/MathFunctions/mysqrt.h
+
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/MathFunctions/MathFunctions.h
+
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/MathFunctions/mysqrt.cxx
+mysqrt.h
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/MathFunctions/mysqrt.h
+iostream
+-
+
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/MathFunctions/mysqrt.h
+

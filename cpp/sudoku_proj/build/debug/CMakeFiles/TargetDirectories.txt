@@ -1,0 +1,10 @@
+/home/ayusha/third-year/1semestr/cpp/sudoku_proj/build/debug/CMakeFiles/edit_cache.dir
+/home/ayusha/third-year/1semestr/cpp/sudoku_proj/build/debug/CMakeFiles/rebuild_cache.dir
+/home/ayusha/third-year/1semestr/cpp/sudoku_proj/build/debug/src/CMakeFiles/edit_cache.dir
+/home/ayusha/third-year/1semestr/cpp/sudoku_proj/build/debug/src/CMakeFiles/rebuild_cache.dir
+/home/ayusha/third-year/1semestr/cpp/sudoku_proj/build/debug/src/app/CMakeFiles/app.dir
+/home/ayusha/third-year/1semestr/cpp/sudoku_proj/build/debug/src/app/CMakeFiles/edit_cache.dir
+/home/ayusha/third-year/1semestr/cpp/sudoku_proj/build/debug/src/app/CMakeFiles/rebuild_cache.dir
+/home/ayusha/third-year/1semestr/cpp/sudoku_proj/build/debug/src/lib/CMakeFiles/libsud.dir
+/home/ayusha/third-year/1semestr/cpp/sudoku_proj/build/debug/src/lib/CMakeFiles/edit_cache.dir
+/home/ayusha/third-year/1semestr/cpp/sudoku_proj/build/debug/src/lib/CMakeFiles/rebuild_cache.dir

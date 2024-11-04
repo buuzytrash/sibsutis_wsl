@@ -1,0 +1,7 @@
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/Step2_build/CMakeFiles/Tutorial.dir
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/Step2_build/CMakeFiles/edit_cache.dir
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/Step2_build/CMakeFiles/rebuild_cache.dir
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/Step2_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/Step2_build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/Step2_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/ayusha/third-year/1semestr/cpp/examples/cmake-3.27.4-tutorial-source/Step2/Step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir
