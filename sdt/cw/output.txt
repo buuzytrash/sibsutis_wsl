@@ -1,0 +1,6 @@
+circle(2.5 3, 5)
+circle(10 10, 2.25)
+circlee(5.37 1.75, 3.4)
+circl(1 2, 2)
+circle(5 5, -4)
+siuuu
